@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    SMIT // SYSTEM ONLINE                 -->
+<!--              SMIT // SYSTEM ONLINE // v2.0               -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -9,13 +9,24 @@
   />
 </p>
 
+<!-- ===================== GLITCH SIGNAL ====================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=13&duration=900&pause=250&color=00FF88&center=true&vCenter=true&width=700&lines=%5B%5B+SIGNAL+ACQUIRED+%5D%5D;%3E%3E%3E+INCOMING+DATA...;%5B+ACCESS+GRANTED+%5D;%5B+SYSTEM+STABLE+%5D"
+    alt="System signal"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
-    width="620"
+    width="570"
     alt="Cyber animation"
   />
 </p>
+
+<!-- ==================== CYBER TYPING ======================== -->
 
 <p align="center">
   <img
@@ -29,6 +40,10 @@
   <code>status --online</code>
   <code>mode=learning</code>
   <code>curiosity=true</code>
+</p>
+
+<p align="center">
+  <code>████████████████████████████████████████</code>
 </p>
 
 <br>
@@ -47,6 +62,12 @@
   <img src="https://img.shields.io/badge/STATUS-CURIOUS-07121C?style=flat-square&logo=statuspage&logoColor=00E5FF" />
   <img src="https://img.shields.io/badge/MODE-LEARNING-07121C?style=flat-square&logo=bookstack&logoColor=00FF88" />
   <img src="https://img.shields.io/badge/OBJECTIVE-UNDERSTAND-07121C?style=flat-square&logo=target&logoColor=FF4FD8" />
+</p>
+
+<p align="center">
+  <code>◢</code> <code>◣</code> <code>◥</code> <code>◤</code>
+  <code>SECURE CHANNEL</code>
+  <code>◢</code> <code>◣</code> <code>◥</code> <code>◤</code>
 </p>
 
 ---
@@ -81,6 +102,10 @@ Still becoming.
 
 **— Smit**
 
+<p align="center">
+  <code>─────────────── // END OF PROFILE BUFFER // ───────────────</code>
+</p>
+
 ---
 
 <!-- ========================================================= -->
@@ -98,6 +123,13 @@ Still becoming.
   <img src="https://img.shields.io/badge/CYBERSECURITY-07121C?style=for-the-badge&logo=protonvpn&logoColor=00FF88" />
   <img src="https://img.shields.io/badge/CRYPTOGRAPHY-07121C?style=for-the-badge&logo=letsencrypt&logoColor=FF4FD8" />
   <img src="https://img.shields.io/badge/SYSTEMS-07121C?style=for-the-badge&logo=linux&logoColor=FFD166" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=1300&pause=450&color=00FF88&center=true&vCenter=true&width=650&lines=%5B+NETWORK+%5D+ONLINE;%5B+SECURITY+%5D+ACTIVE;%5B+CRYPTO+%5D+ANALYZING;%5B+SYSTEMS+%5D+RUNNING"
+    alt="Interest matrix status"
+  />
 </p>
 
 ---
@@ -144,6 +176,13 @@ Still becoming.
   <code>observe → model → test → understand → repeat</code>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=1100&pause=400&color=FF4FD8&center=true&vCenter=true&width=620&lines=%3E%3E+SCANNING+ASSUMPTIONS...;%3E%3E+TESTING+BOUNDARIES...;%3E%3E+ANALYZING+FAILURE...;%3E%3E+MODEL+UPDATED."
+    alt="Security scanning animation"
+  />
+</p>
+
 ---
 
 <!-- ========================================================= -->
@@ -157,6 +196,12 @@ Still becoming.
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1700&pause=600&color=00FF88&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+smit-0410;%24+cat+mission.txt;%3E+understand+how+things+work;%24+./build.sh;%3E+learning...;%3E+experimenting...;%3E+building..."
     alt="Terminal log animation"
   />
+</p>
+
+<p align="center">
+  <code>root@curiosity:~#</code>
+  <code>./keep_learning</code>
+  <code>[██████████████████░░] 90%</code>
 </p>
 
 ---
@@ -212,11 +257,22 @@ Still becoming.
   />
 </p>
 
+<p align="center">
+  <code>01001100 01000101 01000001 01010010 01001110</code>
+</p>
+
 ---
 
 <!-- ========================================================= -->
-<!--                    FOOTER                                 -->
+<!--                  FINAL SYSTEM MESSAGE                     -->
 <!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&duration=1000&pause=350&color=00E5FF&center=true&vCenter=true&width=700&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+CURIOSITY+ACTIVE+%5D;%5B+LEARNING+CONTINUOUS+%5D;%5B+SYSTEM+STILL+BECOMING+%5D"
+    alt="Final system status"
+  />
+</p>
 
 <p align="center">
   <code>connection: established</code>
