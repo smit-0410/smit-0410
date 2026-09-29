@@ -238,72 +238,60 @@ Still becoming.
 ---
 
 <!-- ========================================================= -->
-<!--                    CURRENT PROCESS                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">// CURRENT_PROCESS</h2>
-
-<p align="center">
-  <code>[ LEARN ]</code>
-  &nbsp;→&nbsp;
-  <code>[ EXPERIMENT ]</code>
-  &nbsp;→&nbsp;
-  <code>[ BREAK ]</code>
-  &nbsp;→&nbsp;
-  <code>[ REBUILD ]</code>
-  &nbsp;→&nbsp;
-  <code>[ REPEAT ]</code>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=FF4FD8&center=true&vCenter=true&width=600&lines=No+perfect+path.;No+final+state.;Just+another+system+to+understand."
-    alt="Process animation"
-  />
-</p>
-
-<p align="center">
-  <code>01001100 01000101 01000001 01010010 01001110</code>
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                  FINAL SYSTEM MESSAGE                     -->
+<!--                 FINAL // CONNECTION CLOSED               -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&duration=1000&pause=350&color=00E5FF&center=true&vCenter=true&width=620&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+CURIOSITY+ACTIVE+%5D;%5B+LEARNING+CONTINUOUS+%5D;%5B+SYSTEM+STILL+BECOMING+%5D"
-    alt="Final system status"
+    src="https://user-images.githubusercontent.com/74038190/212257469-7c7d7e2f-5e5e-4f0f-9e7b-2f8f8c7b8e5d.gif"
+    width="650"
+    alt="Cyber terminal animation"
   />
 </p>
 
 <p align="center">
-  <code>connection: established</code>
-  &nbsp;•&nbsp;
-  <code>curiosity: active</code>
-  &nbsp;•&nbsp;
-  <code>learning: continuous</code>
+  <code>┌──[ SMIT@CYBER ]──[~]</code>
+</p>
+
+<p align="center">
+  <code>└─$ connection --status</code>
+</p>
+
+<p align="center">
+  <code>[</code>
+  <b>ONLINE</b>
+  <code>]</code>
+  &nbsp;&nbsp;
+  <code>[</code>
+  <b>CURIOUS</b>
+  <code>]</code>
+  &nbsp;&nbsp;
+  <code>[</code>
+  <b>LEARNING</b>
+  <code>]</code>
+</p>
+
+<p align="center">
+  <code>└─$ ./keep_learning</code>
+</p>
+
+<p align="center">
+  <code>████████████████████████████████████████████</code>
+</p>
+
+<p align="center">
+  <sub>
+    <code>// connection established • system evolving • session never really ends</code>
+  </sub>
 </p>
 
 <br>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,30:00313D,65:07121C,100:020408&height=110&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,25:00E5FF,55:00313D,80:07121C,100:020408&height=100&section=footer&animation=twinkling"
     width="100%"
-    alt="Cyber footer"
+    alt="Cyber terminal footer"
   />
 </p>
-
-<p align="center">
-  <sub>// system still becoming</sub>
-</p>tion=footer&animation=twinkling"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <sub>// system still becoming</sub>
 </p>
