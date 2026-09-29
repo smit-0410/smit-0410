@@ -214,20 +214,25 @@ Still becoming.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=smit-0410&show_icons=true&hide_border=true&bg_color=05080C&title_color=00E5FF&text_color=C8D6E5&icon_color=00FF88&rank_icon=github"
-    height="165"
+    src="https://komarev.com/ghpvc/?username=smit-0410&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"
+    alt="Profile views"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-0410&layout=compact&hide_border=true&bg_color=05080C&title_color=00E5FF&text_color=C8D6E5"
-    height="165"
+    src="https://img.shields.io/github/followers/smit-0410?style=for-the-badge&color=00FF88&label=FOLLOWERS"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/smit-0410?style=for-the-badge&color=FF4FD8&label=STARS"
+    alt="Stars"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=smit-0410&theme=transparent&hide_border=true&ring=00E5FF&fire=FF4FD8&currStreakLabel=00E5FF&sideLabels=C8D6E5&dates=64748B"
-    width="68%"
-  />
+  <code>repository_activity → continuous</code>
+  &nbsp;•&nbsp;
+  <code>learning → active</code>
+  &nbsp;•&nbsp;
+  <code>commits → evolving</code>
 </p>
 
 ---
@@ -252,7 +257,7 @@ Still becoming.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=FF4FD8&center=true&vCenter=true&width=680&lines=No+perfect+path.;No+final+state.;Just+another+system+to+understand."
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=FF4FD8&center=true&vCenter=true&width=600&lines=No+perfect+path.;No+final+state.;Just+another+system+to+understand."
     alt="Process animation"
   />
 </p>
@@ -269,7 +274,7 @@ Still becoming.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&duration=1000&pause=350&color=00E5FF&center=true&vCenter=true&width=700&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+CURIOSITY+ACTIVE+%5D;%5B+LEARNING+CONTINUOUS+%5D;%5B+SYSTEM+STILL+BECOMING+%5D"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&duration=1000&pause=350&color=00E5FF&center=true&vCenter=true&width=620&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+CURIOSITY+ACTIVE+%5D;%5B+LEARNING+CONTINUOUS+%5D;%5B+SYSTEM+STILL+BECOMING+%5D"
     alt="Final system status"
   />
 </p>
@@ -282,9 +287,19 @@ Still becoming.
   <code>learning: continuous</code>
 </p>
 
+<br>
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,30:00313D,65:07121C,100:020408&height=120&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,30:00313D,65:07121C,100:020408&height=110&section=footer&animation=twinkling"
+    width="100%"
+    alt="Cyber footer"
+  />
+</p>
+
+<p align="center">
+  <sub>// system still becoming</sub>
+</p>tion=footer&animation=twinkling"
     width="100%"
   />
 </p>
