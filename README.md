@@ -1,297 +1,104 @@
-<!-- ========================================================= -->
-<!--              SMIT // SYSTEM ONLINE // v2.0               -->
-<!-- ========================================================= -->
+<!-- SMIT // personal systems console -->
+
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,55:08212D,100:00D9F5&height=180&section=header&text=SMIT&fontSize=68&fontColor=EAFBFF&fontAlignY=38&desc=SYSTEMS%20%2F%2F%20SOFTWARE%20%2F%2F%20CURIOSITY&descSize=13&descAlignY=61&animation=fadeIn" width="100%" alt="Smit — systems, software, curiosity" />
+</p> -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,40:07121C,75:00313D,100:00E5FF&height=190&section=header&text=SMIT&fontSize=72&fontColor=EAFBFF&fontAlignY=39&desc=COMPUTER%20SCIENCE%20%2F%2F%20CYBERSECURITY&descSize=15&descAlignY=61&animation=twinkling"
-    width="100%"
-  />
-</p>
-
-<!-- ===================== GLITCH SIGNAL ====================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=13&duration=900&pause=250&color=00FF88&center=true&vCenter=true&width=700&lines=%5B%5B+SIGNAL+ACQUIRED+%5D%5D;%3E%3E%3E+INCOMING+DATA...;%5B+ACCESS+GRANTED+%5D;%5B+SYSTEM+STABLE+%5D"
-    alt="System signal"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=1100&color=48E5D1&center=true&vCenter=true&width=620&lines=curiosity+is+the+default+setting;understand+the+system%2C+not+just+the+interface;build+%E2%86%92+test+%E2%86%92+refine" alt="Curiosity is the default setting" />
 </p>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
-    width="570"
-    alt="Cyber animation"
-  />
-</p>
-
-<!-- ==================== CYBER TYPING ======================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=%5B+SYSTEM+ONLINE+%5D;CURIOUS+BY+DEFAULT.;UNDERSTAND+THE+SYSTEM.;BREAK+THE+ASSUMPTION.;BUILD.+BREAK.+REBUILD."
-    alt="Terminal typing animation"
-  />
+  <code>user@smit:~$ whoami</code><br>
+  <samp>CSE student · builder · perpetual investigator</samp>
 </p>
 
 <p align="center">
-  <code>user@smit:~$</code>
-  <code>status --online</code>
-  <code>mode=learning</code>
-  <code>curiosity=true</code>
-</p>
-
-<p align="center">
-  <code>████████████████████████████████████████</code>
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                       IDENTITY                            -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE-05080C?style=for-the-badge&logo=computer&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-05080C?style=for-the-badge&logo=hackthebox&logoColor=00FF88" />
-  <img src="https://img.shields.io/badge/BUILDER-05080C?style=for-the-badge&logo=git&logoColor=FF4FD8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CURIOUS-07121C?style=flat-square&logo=statuspage&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-07121C?style=flat-square&logo=bookstack&logoColor=00FF88" />
-  <img src="https://img.shields.io/badge/OBJECTIVE-UNDERSTAND-07121C?style=flat-square&logo=target&logoColor=FF4FD8" />
-</p>
-
-<p align="center">
-  <code>◢</code> <code>◣</code> <code>◥</code> <code>◤</code>
-  <code>SECURE CHANNEL</code>
-  <code>◢</code> <code>◣</code> <code>◥</code> <code>◤</code>
+  <img src="./assets/smit-orbit-terminal-v2.gif"
+       width="100%"
+       alt="Smit's orbit scanner terminal" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                         ABOUT                             -->
-<!-- ========================================================= -->
-
-<h2 align="center">// ABOUT_ME</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=900&color=7FDBFF&center=true&vCenter=true&width=620&lines=%3E+loading+profile...;%3E+curiosity+detected;%3E+profile+loaded."
-    alt="Profile loading animation"
-  />
-</p>
-
-20. CSE student. Curious by default.
+## `// about`
 
 I like understanding how things work — and then going a little deeper than I probably needed to.
 
-I’m drawn to things that sit somewhere between **technology, creativity, systems, and pure curiosity**. I learn by building, breaking, questioning, rebuilding, and occasionally wondering why I started in the first place.
+I'm drawn to the space between **systems, software, security, and engineering**. I learn by building, testing assumptions, finding the edge cases, and rebuilding when the first version isn't enough.
 
 I care about becoming **capable, not just qualified**.
 
-Not chasing a perfect path.
-Just trying to make mine interesting.
+Not chasing a perfect path. Just trying to make mine interesting.
 
-Still figuring things out.
-Still building.
-Still becoming.
+Still figuring things out. Still building. Still becoming.
 
 **— Smit**
 
-<p align="center">
-  <code>─────────────── // END OF PROFILE BUFFER // ───────────────</code>
-</p>
+## `// current_interests`
 
----
-
-<!-- ========================================================= -->
-<!--                    INTEREST MATRIX                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">// INTEREST_MATRIX</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,c,cpp,bash,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NETWORKING-07121C?style=for-the-badge&logo=cisco&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-07121C?style=for-the-badge&logo=protonvpn&logoColor=00FF88" />
-  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-07121C?style=for-the-badge&logo=letsencrypt&logoColor=FF4FD8" />
-  <img src="https://img.shields.io/badge/SYSTEMS-07121C?style=for-the-badge&logo=linux&logoColor=FFD166" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=1300&pause=450&color=00FF88&center=true&vCenter=true&width=650&lines=%5B+NETWORK+%5D+ONLINE;%5B+SECURITY+%5D+ACTIVE;%5B+CRYPTO+%5D+ANALYZING;%5B+SYSTEMS+%5D+RUNNING"
-    alt="Interest matrix status"
-  />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                   SECURITY MINDSET                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">// SECURITY_MINDSET</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-<b>RECON</b><br>
-<sub>Map the surface.</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-<b>ANALYZE</b><br>
-<sub>Understand the system.</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-<b>BREAK</b><br>
-<sub>Challenge assumptions.</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-<b>BUILD</b><br>
-<sub>Make it stronger.</sub>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Systems & Linux</strong><br>
+      <sub>What happens beneath the interface: processes, tooling, and the operating system.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Security</strong><br>
+      <sub>Mapping attack surfaces, testing assumptions, and understanding failure modes.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>AI & experimentation</strong><br>
+      <sub>Exploring models, local tooling, and the practical limits of available hardware.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Engineering systems</strong><br>
+      <sub>Connecting software, telemetry, and physical-system behaviour.</sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <code>observe → model → test → understand → repeat</code>
+  <img src="https://skillicons.dev/icons?i=linux,python,c,cpp,bash,git,github&theme=dark" alt="Technologies and tools of interest" />
+</p>
+
+## `// selected_work`
+
+### [SIH-UAV-twin](https://github.com/smit-04/SIH-UAV-twin)
+
+**Engine digital-twin exploration for UAV health monitoring.**
+
+An ongoing project focused on a digital-twin workflow for aero-piston engine monitoring, with the Rotax 914 as the reference engine. The broader problem space includes telemetry, engine-state modelling, health monitoring, and fault prediction.
+
+<sub>Repository: <a href="https://github.com/smit-04/SIH-UAV-twin">smit-04/SIH-UAV-twin ↗</a></sub>
+
+> More projects will appear here when there's something concrete to show—not just a repository to fill a slot.
+
+## `// working_method`
+
+```text
+observe
+  └─ understand the system
+       └─ model the problem
+            └─ test the assumptions
+                 └─ build, measure, refine
+```
+
+I prefer understanding why something works over stopping at the fact that it works.
+
+## `// github_telemetry`
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smit-0410&style=flat-square&color=12303B&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/smit-0410?style=flat-square&color=12303B&label=FOLLOWERS" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=1100&pause=400&color=FF4FD8&center=true&vCenter=true&width=620&lines=%3E%3E+SCANNING+ASSUMPTIONS...;%3E%3E+TESTING+BOUNDARIES...;%3E%3E+ANALYZING+FAILURE...;%3E%3E+MODEL+UPDATED."
-    alt="Security scanning animation"
-  />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    TERMINAL LOG                           -->
-<!-- ========================================================= -->
-
-<h2 align="center">// TERMINAL_LOG</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1700&pause=600&color=00FF88&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+smit-0410;%24+cat+mission.txt;%3E+understand+how+things+work;%24+./build.sh;%3E+learning...;%3E+experimenting...;%3E+building..."
-    alt="Terminal log animation"
-  />
+  <sub><code>status: building</code> &nbsp;·&nbsp; <code>mode: curious</code> &nbsp;·&nbsp; <code>mission: understand more than yesterday</code></sub>
 </p>
 
 <p align="center">
-  <code>root@curiosity:~#</code>
-  <code>./keep_learning</code>
-  <code>[██████████████████░░] 90%</code>
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB TELEMETRY                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">// GITHUB_TELEMETRY</h2>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=smit-0410&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/smit-0410?style=for-the-badge&color=00FF88&label=FOLLOWERS"
-    alt="Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/smit-0410?style=for-the-badge&color=FF4FD8&label=STARS"
-    alt="Stars"
-  />
-</p>
-
-<p align="center">
-  <code>repository_activity → continuous</code>
-  &nbsp;•&nbsp;
-  <code>learning → active</code>
-  &nbsp;•&nbsp;
-  <code>commits → evolving</code>
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                 FINAL // CONNECTION CLOSED               -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212257469-7c7d7e2f-5e5e-4f0f-9e7b-2f8f8c7b8e5d.gif"
-    width="650"
-    alt="Cyber terminal animation"
-  />
-</p>
-
-<p align="center">
-  <code>┌──[ SMIT@CYBER ]──[~]</code>
-</p>
-
-<p align="center">
-  <code>└─$ connection --status</code>
-</p>
-
-<p align="center">
-  <code>[</code>
-  <b>ONLINE</b>
-  <code>]</code>
-  &nbsp;&nbsp;
-  <code>[</code>
-  <b>CURIOUS</b>
-  <code>]</code>
-  &nbsp;&nbsp;
-  <code>[</code>
-  <b>LEARNING</b>
-  <code>]</code>
-</p>
-
-<p align="center">
-  <code>└─$ ./keep_learning</code>
-</p>
-
-<p align="center">
-  <code>████████████████████████████████████████████</code>
-</p>
-
-<p align="center">
-  <sub>
-    <code>// connection established • system evolving • session never really ends</code>
-  </sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,25:00E5FF,55:00313D,80:07121C,100:020408&height=100&section=footer&animation=twinkling"
-    width="100%"
-    alt="Cyber terminal footer"
-  />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,55:08212D,100:05070D&height=80&section=footer" width="100%" alt="" />
 </p>
