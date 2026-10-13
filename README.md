@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/smit-orbit-terminal-v2.gif"
+  <img src="./assets/orbit-terminal-identity-sig.gif"
        width="100%"
        alt="Smit's orbit scanner terminal" />
 </p>
